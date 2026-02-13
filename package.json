@@ -1,6 +1,6 @@
 {
   "name": "@litejs/sun",
-  "version": "25.0.0",
+  "version": "26.2.0",
   "description": "Sun position and timing calculations based on NOAA solar equations",
   "license": "MIT",
   "author": "Lauri Rooden <lauri@rooden.ee>",
